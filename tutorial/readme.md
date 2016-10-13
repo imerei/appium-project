@@ -84,4 +84,4 @@ The following prerequisites are needed to run the script: [Homebrew](http://brew
   5. In the Terminal create a new tab and change directory to tutorial/projects/java_android
   6. While in the java_android directory, enter to followoing to run the Appium tests
 
-	$ mvn clean test≈
+	$ mvn clean test
