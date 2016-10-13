@@ -78,10 +78,10 @@ The following prerequisites are needed to run the script: [Homebrew](http://brew
   2. Launch your AVD
   3. Open your Terminal and enter the following command to confirm the AVD is recognized:
 
-	$ adb devices
+        $ adb devices
 	
   4. In the Terminal create a new tab and enter "appium" to run the server
   5. In the Terminal create a new tab and change directory to tutorial/projects/java_android
   6. While in the java_android directory, enter to followoing to run the Appium tests
 
-	$ mvn clean test≈
+        $ mvn clean test
